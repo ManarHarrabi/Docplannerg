@@ -21,7 +21,8 @@ margin: 10px;}
     color: #00b39b;
     text-decoration: none;}
 
-body{color:#ababab}
+body{color:#ababab;
+font-family: roboto;}
 
 #headerlogo {
     width: 40px;
@@ -323,6 +324,7 @@ body{color:#ababab}
     div .buttons {
       display: flex;
       justify-content: space-between;
+      
     }
   
     .section7 h1 {
@@ -356,6 +358,7 @@ body{color:#ababab}
       display: flex;
       flex-direction: column;
       justify-content: center;
+      text-align: center;
       align-items: center;
     }
 
